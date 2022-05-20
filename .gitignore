@@ -105,3 +105,7 @@ dist
 
 #arquivos de variáveis ambiente
 .env
+
+#arquivos de cache
+*.lock
+*-lock
