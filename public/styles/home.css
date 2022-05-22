@@ -14,7 +14,7 @@ header {
 
 #bg {
     grid-area: left;
-    background: url('/RocketQ/assets/home-bg-img2.svg') no-repeat top/contain;
+    background: url('/images/home-bg-img2.svg') no-repeat top/contain;
     background-position-x: -10rem;
 }
 
