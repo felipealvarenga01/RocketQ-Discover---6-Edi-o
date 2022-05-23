@@ -21,3 +21,5 @@ const initDb = {
 }
 
 initDb.init();
+
+module.exports = initDb
